@@ -17,6 +17,13 @@ Full time B.tech Computer Engineering student. Interested in software developmen
 
 </details>
 
+### Skills
++ Rust
++ HTML
++ CSS
++ JavaScript
++ SQL
+
 ---
 > Currently working as Rust intern @Codecyle Technologies Private Limited
 
