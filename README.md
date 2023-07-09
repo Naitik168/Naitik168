@@ -20,8 +20,8 @@ Full time B.tech Computer Engineering student. Interested in software developmen
 ### Skills
 + Rust
 + HTML
-+ CSS
-+ JavaScript
++ CSS (intermediate)
++ JavaScript (intermediate)
 + SQL
 
 ---
