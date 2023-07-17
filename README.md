@@ -9,11 +9,11 @@ Full time B.tech Computer Engineering student. Interested in software developmen
 <details>
 <summary>Education</summary>
   
-| Education |  Performance  |
-|----------:|---------------|
-|       10th|     91.66%    |
-|       12th|     76.15%    |
-|     B.tech|   9.56 CGPA   |
+|      Education      |  Performance  |
+|--------------------:|---------------|
+|       10th          |     91.66%    |
+|       12th          |     76.15%    |
+|     B.tech (6th sem)|   9.56 CGPA   |
 
 </details>
 
