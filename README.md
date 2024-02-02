@@ -1,9 +1,9 @@
 ## About me
 
-Hi, I'm Naitik - A student and technocrat.
+Hi, I'm Naitik - A student and techenthusiast.
 
 ### Summary
-Full time B.tech Computer Engineering student. Interested in software development, full stack web development and database management. Always eager to learn new technologies and software development tools. Good in team management and performing tasks as a team.
+Final year B.tech Computer Engineering student. Interested in software development, Backend and blockchain. Always eager to learn new technologies and software development tools. Good in team management and performing tasks as a team.
 
 <!--Education section -->
 <details>
@@ -13,7 +13,7 @@ Full time B.tech Computer Engineering student. Interested in software developmen
 |--------------------:|---------------|
 |       10th          |     91.66%    |
 |       12th          |     76.15%    |
-|     B.tech (6th sem)|   9.56 CGPA   |
+|     B.tech (7th sem)|   9.56 CGPA   |
 
 </details>
 
@@ -21,7 +21,7 @@ Full time B.tech Computer Engineering student. Interested in software developmen
 + Rust
 + HTML
 + CSS (intermediate)
-+ JavaScript (intermediate)
++ JavaScript
 + SQL
 
 ---
