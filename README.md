@@ -3,7 +3,7 @@
 Hi, I'm Naitik - A student and techenthusiast.
 
 ### Summary
-Final year B.tech Computer Engineering student. Interested in software development, Backend and blockchain. Always eager to learn new technologies and software development tools. Good in team management and performing tasks as a team.
+Final year B.tech Computer Engineering student. Interested in software development, Backend and blockchain. Always eager to learn new technologies and software development tools. Good in team management and multitasking.
 
 <!--Education section -->
 <details>
@@ -25,6 +25,6 @@ Final year B.tech Computer Engineering student. Interested in software developme
 + SQL
 
 ---
-> Currently working as Rust intern @Codecyle Technologies Private Limited
+> Currently working as Rust Trainee Engineer @Codezeros Technology Private Limited
 
 -Ahmedabad, India.
