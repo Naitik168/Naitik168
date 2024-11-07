@@ -1,9 +1,9 @@
 ## About me
 
-Hi, I'm Naitik - A student and techenthusiast.
+Hi, I'm Naitik - Rust developer, Web 3.0 enthusiast and technocrate.
 
 ### Summary
-Final year B.tech Computer Engineering student. Interested in software development, Backend and blockchain. Always eager to learn new technologies and software development tools. Good in team management and multitasking.
+Recently graduated B.tech Computer Engineering. Interested in software development, Backend and blockchain. Always eager to learn new technologies and software development tools. Good in team management and multitasking.
 
 <!--Education section -->
 <details>
