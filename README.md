@@ -26,6 +26,6 @@ Final year B.tech Computer Engineering student. Interested in software developme
 + Git
 
 ---
-> Currently working as Rust Trainee Engineer @Codezeros Technology Private Limited
+> Currently working as R&D Engineer @Supra Labs
 
 -Ahmedabad, India.
