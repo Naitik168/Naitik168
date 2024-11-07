@@ -19,10 +19,11 @@ Final year B.tech Computer Engineering student. Interested in software developme
 
 ### Skills
 + Rust
-+ HTML
-+ CSS (intermediate)
++ Python
++ Shell
 + JavaScript
 + SQL
++ Git
 
 ---
 > Currently working as Rust Trainee Engineer @Codezeros Technology Private Limited
