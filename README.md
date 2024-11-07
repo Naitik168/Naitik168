@@ -13,7 +13,7 @@ Recently graduated B.tech Computer Engineering. Interested in software developme
 |--------------------:|---------------|
 |       10th          |     91.66%    |
 |       12th          |     76.15%    |
-|     B.tech (7th sem)|   9.56 CGPA   |
+|      B.tech         |   9.52 CGPA   |
 
 </details>
 
