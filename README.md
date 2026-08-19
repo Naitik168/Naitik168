@@ -22,6 +22,19 @@ engineering and new gen technologies.
 
 </details>
 
+<!--Work Experience section -->
+<details>
+<summary>Work Experience</summary>
+  
+|      Organisation   |    Position   |   Start Date  |    End Data   |
+|--------------------:|--------------:|--------------:|--------------:|
+| Yral (Gobazzinga Inc.) | Rust Developer | December,2025 | August,2026 |
+| Supra Labs | R&D Engineer | August,2024 | November,2025 |
+| Supra Labs | Rust Engineer Intern | February,2024 | July.2024 | 
+| Codecycle Technologies Private Limited | Rust Developer Intern | June,2023 | July,2023 |
+
+</details>
+
 ### Skills
 + Rust
 + Python
